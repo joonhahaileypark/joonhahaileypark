@@ -20,5 +20,8 @@
 
 <h3 align="left">Data Projects:</h3>
 
-- Networking & Servers Project RFP
+
 [Networking & Servers Project RFP](Networking & Servers Project RFP.pdf)
+[Air Quality Project](Air Quality Project.pdf)
+[JP Morgan Chase Databse Project](JP Morgan Chase Databse Project.pdf)
+[Domo Layton Construction Hackathon](Domo Layton Construction Hackathon.pdf)
