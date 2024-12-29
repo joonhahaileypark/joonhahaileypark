@@ -20,7 +20,7 @@
 
 <h3 align="left">Data Projects:</h3>
 
-- [Networking & Servers Project RFP](Networking%20&%20Servers%20Project%20RFP.pdf)
+<h5 align="left">- [Networking & Servers Project RFP](Networking%20&%20Servers%20Project%20RFP.pdf)
 <h5 align="left"> A proposal to design and implement a network and server infrastructure upgrade for Win Financial Group, a growing financial consulting firm. The proposal aims to support WFG's expansion from 30 to 200 employees, provide scalable and secure network solutions, and implement server infrastructure with cloud integration for fault tolerance.
 </p>
   
