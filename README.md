@@ -21,7 +21,7 @@
 <h3 align="left">Data Projects:</h3>
 
 
-[Networking & Servers Project RFP](Networking & Servers Project RFP.pdf)
-[Air Quality Project](Air Quality Project.pdf)
-[JP Morgan Chase Databse Project](JP Morgan Chase Databse Project.pdf)
-[Domo Layton Construction Hackathon](Domo Layton Construction Hackathon.pdf)
+- [Networking & Servers Project RFP](Networking%20&%20Servers%20Project%20RFP.pdf)
+- [Air Quality Project](Air%20Quality%20Project.pdf)
+- [JP Morgan Chase Database Project](JP%20Morgan%20Chase%20Database%20Project.pdf)
+- [Domo Layton Construction Hackathon](Domo%20Layton%20Construction%20Hackathon.pdf)
