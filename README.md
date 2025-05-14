@@ -45,10 +45,6 @@ decision-making support
 <h5 align="left"> Utilizing air quality data from the United States Environmental Protection Agency, I analyzed seasonal and geographical AQI trends over three decades. Through SQL and Power BI, I identified a positive AQI improvement in key regions, alongside a concerning decline in specific areas, with Utah counties showing gradual progress in air quality. This project highlighted critical insights for targeted environmental policy initiatives.
 </p>
   
-- [JP Morgan Chase Database Project](JP%20Morgan%20Chase%20Database%20Project.pdf)
-<h5 align="left"> Analyzed business requirements and developed a PostgreSQL database with ER and relational models for JP Morgan Chase's mobile banking app.Demonstrated compliance with current functionalities and proposed new strategies for improved customer experience and security.
-</p>
-  
 - [Domo Layton Construction Hackathon](Domo%20Layton%20Construction%20Hackathon.pdf)
 <h5 align="left"> Cleaned, joined, and analyzed datasets using SQL and the business intelligence tool Domo to address critical business questions related to safety incidents across 2023-24 Layton Construction work sites. Developed data visualizations and interactive dashboards in Domo to prove insights and provide actionable KPIs for the management team. Completed the project within 48 hours.
 </p>
