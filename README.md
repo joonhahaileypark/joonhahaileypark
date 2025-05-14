@@ -28,7 +28,7 @@
 • Developed detailed implementation documentation to facilitate smooth deployment, cross-team coordination, and long-term maintainability of IT systems
 </p>
 
-- [Structured Credit News ETL Dashboard  project](Structured%20Credit%20News%20ETL%20Dashboard%20project.pdf)
+- [Structured Credit News ETL Dashboard  project](Structured%20Credit%20News%20ETL%20Dashboard%20%20project.pdf)
 <h5 align="left"> • Automated extraction and summarization of structured credit news using Python and NLP; deployed dashboards with BigQuery and Streamlit to
 inform internal liquidity-related decisions in near real-time
 • Orchestrated ETL pipelines with Airflow to ensure timely delivery of financial insights, optimizing reporting operations and enhancing internal
