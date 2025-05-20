@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋 I'm Joonha Park, a passionate data engineer!</h1>
+<h1 align="left">Hi I'm Joonha Park, a passionate data engineer!</h1>
 <h3 align="left">"Data is not the new oil, it's the new soil. It is a resource that creates value by itself."</h3>
 
 
 
 
-- 🔭 I have a strong experience in **DataBase, Business Intelligence, Data Visualization, and Data Analysis**
+- I have a strong experience in **DataBase, Business Intelligence, Data Visualization, and Data Analysis**
 
-- 🌱 I’m currently learning **Data Engineering, Data Mining, and Data Science**
+- I’m currently learning **Data Engineering, Data Mining, and Data Science**
 
-- 📫 How to reach me **joonhahailey613@gmail.com**
+- How to reach me **joonhahailey613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
